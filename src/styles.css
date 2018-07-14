@@ -1,0 +1,27 @@
+/* You can add global styles to this file, and also import other style files */
+
+body {
+
+
+}
+
+#header {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#header img {
+  width: 300px;
+
+}
+
+#city {
+  color: blue;
+  font-family: Helvetica, sans-serif;
+}
+
+#tagline {
+  color: #7b007b;
+  font-size: 24px;
+}
