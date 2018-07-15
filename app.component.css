@@ -1,0 +1,28 @@
+body {
+  background: lightgray;
+}
+
+app-contacts {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#header {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#header img {
+  max-width: 300px;
+}
+
+app-skills {
+  text-align: center;
+  font-family: Arial,Helvetica, sans-serif;
+}
+
+app-contacts {
+  text-align: center;
+  font-family: Helvetica, Arial, sans-serif;
+}
